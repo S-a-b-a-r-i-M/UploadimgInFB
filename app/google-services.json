@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553192360966",
+    "project_id": "uploadimginfb",
+    "storage_bucket": "uploadimginfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553192360966:android:15b64141963004c1290787",
+        "android_client_info": {
+          "package_name": "com.example.uploadimginfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553192360966-h00dosa06l4suc4u6k03365aic5id46t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm3KzlRzDWnC8Tz_fZNoAwRI2ImSq2bXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553192360966-h00dosa06l4suc4u6k03365aic5id46t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
